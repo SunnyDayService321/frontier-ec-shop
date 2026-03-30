@@ -113,3 +113,7 @@ frontier-ec-shop/
 ├── first_asp_app.csproj  # プロジェクト定義
 └── README.md
 ```
+
+## 📄 ドキュメント
+
+- **設計ドキュメント（ECサイト）**: https://docs.google.com/spreadsheets/d/e/2PACX-1vRWqqOgIvBPcbZ_vhuWse5lKrDJ5QlIzhnmW3VVQHy_It4YwW489tzR4jb7OfXfl5tpuvW2mXlru2Cj/pubhtml
